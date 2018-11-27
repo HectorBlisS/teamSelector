@@ -3,7 +3,7 @@ const speed = 5000;
 let interval;
 let teams = [];
 let team = [];
-//const mp3 = new Audio();
+////////const mp3 = new Audio();
 let mp3 = document.createElement('audio');
 //mp3.src="assets/fail.mp3";
 mp3.src="assets/im.mp3";
