@@ -37,7 +37,7 @@ let students = [
     },
     {
         name:"omar",
-        pic:"assets/omar.JPG"
+        pic:"assets/omar2.JPG"
     },
     {
         name:"pilar",
